@@ -1,4 +1,4 @@
-<img width="1128" alt="Frame 34" src="https://user-images.githubusercontent.com/43164022/169957919-36f88abc-a5d3-431b-81e2-8bd20c778873.png">
+![Twitter header - 2](https://user-images.githubusercontent.com/43164022/193026353-abca3f8a-3a69-4f65-b7fd-45ffb3c742a8.jpg)
 
 
 ChainScore is the first open-sourced Credit Scoring Protocol for DeFi. More details [here](https://chainscore.finance)
