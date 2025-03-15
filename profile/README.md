@@ -1,7 +1,5 @@
-![Twitter header - 2](https://user-images.githubusercontent.com/43164022/193026353-abca3f8a-3a69-4f65-b7fd-45ffb3c742a8.jpg)
+![OG Image](https://chainscore.finance/assets/og-image.png)
 
-
-ChainScore is the first open-sourced Credit Scoring Protocol for DeFi. More details [here](https://chainscore.finance)
-
+ChainScore a leading Web3 Research and Development Studio. Founded in 2021, we are specialised in DeFi, Modern Applications and Blockchain Infrastructure. More details [here](https://chainscore.finance)
 
 Contact - hello@chainscore.finance
